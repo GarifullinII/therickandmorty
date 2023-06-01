@@ -1,0 +1,3 @@
+# therickandmorty
+
+Clean architecture, api
