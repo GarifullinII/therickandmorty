@@ -6,6 +6,7 @@ class PersonEntity extends Equatable {
   final String status;
   final String species;
   final String type;
+  final String gender;
   final LocationEntity origin;
   final LocationEntity location;
   final String image;
@@ -18,6 +19,7 @@ class PersonEntity extends Equatable {
     required this.status,
     required this.species,
     required this.type,
+    required this.gender,
     required this.origin,
     required this.location,
     required this.image,
